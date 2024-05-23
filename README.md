@@ -6,7 +6,7 @@
 • ООП и работа c API.
 ﻿﻿• GIT.
 • Веб-скрапинг.
-﻿﻿• Pytest/unitest.
+﻿﻿• Pytest/unittest.
 ﻿﻿• HTML/CSS
 • Django  
 • Основы JavaScript
